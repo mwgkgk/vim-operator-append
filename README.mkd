@@ -1,0 +1,20 @@
+# vim-operator-append
+
+  Enter insert mode after the text specified by the motion.
+
+## usage
+
+  The plugin does not define any mappings. Define one like this:
+
+    map <Space>a <Plug>(operator-append)
+
+## examples
+
+  `<Space>ai"` to append inside double quotes.
+  `<Space>ait` to append inside a tag.
+  `<Space>aat` to append after an ambient tag.
+
+## requires
+
+  [vim-operator-user](https://github.com/kana/vim-operator-user)
+
