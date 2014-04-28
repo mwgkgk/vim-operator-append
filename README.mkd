@@ -1,6 +1,8 @@
 # vim-operator-append
 
-  Enter insert mode after the text specified by the motion.
+  Enter insert mode after the text specified by a motion.
+
+  See also: [vim-operator-insert](https://github.com/mwgkgk/vim-operator-insert)
 
 ## usage
 
